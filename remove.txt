@@ -2,3 +2,4 @@ device/samsung
 vendor/samsung
 hardware/samsung
 kernel/samsung
+packages/apps/Nfc
