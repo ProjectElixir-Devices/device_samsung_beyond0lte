@@ -39,7 +39,7 @@ git clone https://github.com/DragonFox-Project/android_device_samsung_slsi_sepol
 rm -rf hardware/samsung_slsi-linaro
 git clone https://github.com/DragonFox-Project/android_hardware_samsung_slsi-linaro_graphics hardware/samsung_slsi-linaro/graphics --depth 1 -b evo-udc/slsi-q
 git clone https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_config.git hardware/samsung_slsi-linaro/config
-git clone https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_exynos.git hardware/samsung_slsi-linaro/exynos
+git clone https://github.com/linux4-bringup-priv/android_hardware_samsung_slsi-linaro_exynos.git -b lineage-21.0 hardware/samsung_slsi-linaro/exynos
 git clone https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_openmax.git hardware/samsung_slsi-linaro/openmax
 git clone https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_exynos5.git hardware/samsung_slsi-linaro/exynos5
 git clone https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_interfaces.git hardware/samsung_slsi-linaro/interfaces
