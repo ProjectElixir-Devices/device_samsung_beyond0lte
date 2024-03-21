@@ -21,9 +21,6 @@ include vendor/samsung/beyond0lte/BoardConfigVendor.mk
 
 DEVICE_PATH := device/samsung/beyond0lte
 
-## APEX image
-DEXPREOPT_GENERATE_APEX_IMAGE := true
-
 ## Display
 TARGET_SCREEN_DENSITY := 480
 
