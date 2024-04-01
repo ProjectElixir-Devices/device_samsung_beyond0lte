@@ -104,8 +104,16 @@ vendor/tee/00000000-0000-0000-0000-0053545354ab
 vendor/tee/00000000-0000-0000-0000-46494e474552
 vendor/tee/00000000-0000-0000-0000-4b45594d5354
 vendor/tee/00000000-0000-0000-0000-505256544545
+vendor/tee/00000000-0000-0000-0000-564c544b5052
 vendor/tee/00000000-0000-0000-0000-657365447276
 vendor/tee/driver/00000000-0000-0000-0000-53626f786476
+
+## VaultKeeper
+-vendor/bin/vaultkeeperd
+vendor/etc/init/vaultkeeper_common.rc
+-vendor/lib64/libstork_shared.so
+-vendor/lib64/libvkmanager_vendor.so
+-vendor/lib64/libvkservice.so
 
 ## Wi-Fi
 vendor/firmware/bcmdhd_clm.blob
