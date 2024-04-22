@@ -1,4 +1,4 @@
-# Firmware for model SM-G970F - from Samsung package version G970FXXSGHWC1
+# Firmware for model SM-G970F - from Samsung package version G970FXXSGHWC2
 
 cm.bin_SM-G970F
 dqmdbg.img_SM-G970F
@@ -10,7 +10,7 @@ sboot.bin_SM-G970F
 uh.bin_SM-G970F
 up_param.bin_SM-G970F
 
-# Firmware for model SM-G970N - from Samsung package version G970NKSU7HWA1
+# Firmware for model SM-G970N - from Samsung package version G970NKSU7HWD3
 
 cm.bin_SM-G970N
 dqmdbg.img_SM-G970N
