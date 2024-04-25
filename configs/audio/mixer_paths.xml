@@ -2106,8 +2106,8 @@
 	<path name="media-mic">
 		<path name="dev-dual-invert-mic" />
 		<path name="route-ap-record-txse1" />
-		<ctl name="ABOX OEM AP Call type" value="1" />
-		<ctl name="ABOX OEM NXP Mode" value="2" />
+		<ctl name="ABOX OEM AP Call type" value="9" />
+		<ctl name="ABOX OEM NXP Mode" value="1" />
 	</path>
 
 	<path name="media-2nd-mic">
@@ -4503,7 +4503,7 @@
 	<!-- media input volume -->
 	<path name="gain-media-mic">
 		<ctl name="IN3L Digital Volume" value="126" />
-		<ctl name="IN4L Digital Volume" value="168" />
+		<ctl name="IN4L Digital Volume" value="186" />
 	</path>
 
 	<path name="gain-media-2nd-mic">
