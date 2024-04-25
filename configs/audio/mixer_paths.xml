@@ -3442,7 +3442,7 @@
 	<!-- Output volume stage -->
 	<!-- media playback volume -->
 	<path name="gain-media-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -3568,7 +3568,7 @@
 
 	<!-- Ringtone playback volume -->
 	<path name="gain-ringtone-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -3651,7 +3651,7 @@
 
 	<!-- Communication playback volume -->
 	<path name="gain-communication-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -3721,7 +3721,7 @@
 
 	<!-- samsung voip fmc playback volume -->
 	<path name="gain-samsung_voip_fmc-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -3771,7 +3771,7 @@
 
 	<!-- wificall nb playback volume -->
 	<path name="gain-wificall_nb-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -3821,7 +3821,7 @@
 
 	<!-- wificall wb playback volume -->
 	<path name="gain-wificall_wb-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -3871,7 +3871,7 @@
 
 	<!-- wificall evs playback volume -->
 	<path name="gain-wificall_evs-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -3921,7 +3921,7 @@
 
 	<!-- Video call playback volume -->
 	<path name="gain-video_call-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -3972,7 +3972,7 @@
 	<!-- CP Call Output volume -->
 	<!-- NB volume -->
 	<path name="gain-incall_nb-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -4025,7 +4025,7 @@
 
 	<!-- WB volume -->
 	<path name="gain-incall_wb-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -4078,7 +4078,7 @@
 
 	<!-- VoLTE CP NB playback volume -->
 	<path name="gain-volte_cp_nb-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -4131,7 +4131,7 @@
 
 	<!-- VoLTE CP WB playback volume -->
 	<path name="gain-volte_cp_wb-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -4184,7 +4184,7 @@
 
 	<!-- EVS volume -->
 	<path name="gain-volte_cp_evs-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -4237,7 +4237,7 @@
 
 	<!-- VoLTE VT CP NB playback volume -->
 	<path name="gain-volte_vt_cp_nb-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -4290,7 +4290,7 @@
 
 	<!-- VoLTE VT CP WB playback volume -->
 	<path name="gain-volte_vt_cp_wb-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -4343,7 +4343,7 @@
 
 	<!-- EVS VT volume -->
 	<path name="gain-volte_vt_cp_evs-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -4396,7 +4396,7 @@
 
 	<!-- TTY Mode volume-->
 	<path name="gain-tty_mode-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -4419,7 +4419,7 @@
 
 	<!-- AP TTY Mode volume-->
 	<path name="gain-ap_tty_mode-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -5446,7 +5446,7 @@
 
 	<!-- Packet Loopback output volume-->
 	<path name="gain-loopback_packet-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -5479,7 +5479,7 @@
 
 	<!-- Realtime Loopback output volume-->
 	<path name="gain-realtimeloopback-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -5515,7 +5515,7 @@
 
 	<!-- echo(rms) test output volume -->
 	<path name="gain-echo_test-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
@@ -5537,7 +5537,7 @@
 	</path>
 
 	<path name="gain-echo_thd_test-handset">
-		<ctl name="Left AMP PCM Gain" value="17" />
+		<ctl name="Left AMP PCM Gain" value="10" />
 		<ctl name="Left Digital PCM Volume" value="817" />
 	</path>
 
