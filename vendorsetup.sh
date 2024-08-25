@@ -4,7 +4,7 @@ echo 'Starting Cloning repos for beyond0lte'
 echo 'Cloning Kernel tree [1/7]'
 # Kernel for exynos9820
 rm -rf kernel/samsung/exynos9820
-git clone https://github.com/linux4-bringup-priv/android_kernel_samsung_exynos9820 -b lineage-21.0 kernel/samsung/exynos9820
+git clone --depth=1 https://github.com/ProjectMatrixx-exynos9820/android_kernel_samsung_exynos9820 -b kernelsu kernel/samsung/exynos9820
 
 echo 'Cloning Common Tree [2/7]'
 # Common tree for exynos9820-common
