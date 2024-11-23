@@ -9,7 +9,7 @@ git clone --depth=1 https://github.com/ProjectMatrixx-exynos9820/android_kernel_
 echo 'Cloning Common Tree [2/7]'
 # Common tree for exynos9820-common
 rm -rf device/samsung/exynos9820-common
-git clone https://github.com/ProjectElixir-Devices/android_device_samsung_exynos9820-common -b ELIXIR-14 device/samsung/exynos9820-common
+git clone https://github.com/ProjectElixir-Devices/android_device_samsung_exynos9820-common -b ELIXIR-15 device/samsung/exynos9820-common
 
 echo 'Cloning Device Tree [3/7]'
 # Device tree for beyond0lte
